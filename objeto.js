@@ -43,3 +43,5 @@ let mariazinha = {
 joaozinho['namorada'] = mariazinha;
 mariazinha.namorado = joaozinho;
 
+console.log(joaozinho.namorada);
+console.log(joaozinho.namorada.namorado);
